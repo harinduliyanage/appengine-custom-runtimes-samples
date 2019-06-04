@@ -17,7 +17,7 @@ Some samples in this repositories may have special deployment instructions. Refe
    gcloud config set project <your-app-id>
    ```
 
-3. Use gcloud to deploy your app.
+3. Use gcloud to deploy your app.dadbjkabdkjabdjbajdba
 
    ```
    gcloud app deploy
